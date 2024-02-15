@@ -1,0 +1,115 @@
+Deck Name	Percentage
+Red Deck Wins	7 %
+Gruul Aggro	4 %
+Rakdos Aggro	3 %
+Selesnya Aggro	3 %
+Weenie White 	3 %
+Abzan Aggro	3 %
+Esper Aggro	3 %
+Golgari Aggro	2 %
+Mono Green Aggro	2 %
+Temur Aggro	2 %
+Mono Blue Aggro	2 %
+Azorius Aggro	2 %
+Boros Aggro	2 %
+Mardu Aggro	2 %
+Bant Aggro	2 %
+Jeskai Aggro	1 %
+Devotion to Black	1 %
+Naya Aggro	1 %
+Azorius Aggro	1 %
+Mono Black Aggro	1 %
+Dimir Aggro	1 %
+Cycling Aggro	0.9 %
+Zombies	0.9 %
+Sultai Aggro	0.8 %
+UR Aggro	0.7 %
+Orzhov Aggro	0.7 %
+Simic Aggro	0.6 %
+Adventure	0.6 %
+Winota	0.5 %
+Jund Aggro	0.4 %
+Grixis Aggro	0.4 %
+Tokens	0.4 %
+Infect	0.4 %
+Aristocrats	0.3 %
+4/5c Aggro	0.3 %
+Devotion to Red	0.3 %
+Vampires	0.3 %
+Naya Human	0.2 %
+Bant Hexproof	0.2 %
+Eldrazi Aggro	0.2 %
+Tempered Steel	0.2 %
+Boros Landfall	0.2 %
+Azorius Heroic	0.2 %
+Emerge	0.1 %
+Holy Quest	0.1 %
+Prime Speaker Bant	0.1 %
+Elves	0.1 %
+Dinosaurs	0.1 %
+Angels	0.1 %
+Fauna Shaman	0.1 %
+Illusions	0.1 %
+Pummeler	0.1 %
+Kuldotha Red 	0.1 %
+Merfolk	0.1 %
+UWR Delver	0.1 %
+UR Artifacts	0.1 %
+Puresteel Paladin 	0.1 %
+Other - Aggro	0.4 %
+Esper Control	3 %
+UW Control	3 %
+Sultai Control	3 %
+Dimir Control	3 %
+Jund Control	2 %
+Bant Control	2 %
+Temur Control	2 %
+4/5C Control	2 %
+Fires of Invention	2 %
+Grixis Control	2 %
+Izzet Control	2 %
+Orzhov Control	1 %
+Green Ramp	1 %
+Blade Control	1 %
+Jeskai Control	1 %
+Rakdos Control	0.7 %
+Valakut	0.6 %
+Mono White Control 	0.6 %
+Golgari Control	0.6 %
+Mardu Control	0.5 %
+Birthing Pod	0.5 %
+Mono Black Control	0.5 %
+Kessig Titan	0.4 %
+God-Pharaoh's Gift Control	0.4 %
+Omnath Ramp	0.4 %
+Simic Control	0.3 %
+RUG Control	0.2 %
+Tower Control	0.2 %
+Eldrazi Green	0.2 %
+Naya Control	0.1 %
+Dark Jeskai	0.1 %
+Jeskai Planeswalker	0.1 %
+Tezzeret Control	0.1 %
+Mono Red Control	0.1 %
+Improvise	0.1 %
+Architect	0.1 %
+Mono Blue Control	0.1 %
+Destructive Force	0.1 %
+BUG Control	0.1 %
+Gate Control	0.1 %
+Heartless Control	0.1 %
+Static Peddler	0.1 %
+Omniscience control	0.1 %
+Other - Control	0.6 %
+Reanimator	2 %
+Marvelous Energy	0.7 %
+CopyCat	0.5 %
+Rally the Ancestors	0.3 %
+Nexus Reclamation	0.2 %
+Exarch Twin	0.2 %
+Jeskai Combo	0.1 %
+Lazav Combo	0.1 %
+Gyruda	0.1 %
+Pyromancer Ascension	0.1 %
+Genesis Wave	0.1 %
+Other - Combo	0.2 %
