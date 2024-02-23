@@ -1,0 +1,7 @@
+(Veveil), B. H., & Bryan Hohns (Veveil)  Bryan “Veveil” Hohns has been playing Magic since 2013. (2024, February 15). How much does the average magic deck cost? [8 formats analyzed]. Draftsim. https://draftsim.com/mtg-deck-price/ 
+
+Camilo. (2021, March 8). Magic the gathering top-8 some decks and events. Kaggle. https://www.kaggle.com/datasets/camilonunez/magic-the-gathering-top8-some-decks-and-events 
+
+Magic: The gathering standard decks and Metagame. MTGGoldfish Icon. (n.d.-a). https://www.mtggoldfish.com/metagame/standard#paper 
+
+MTGJSON. · MTGJSON.com · Portable formats for all Magic: The Gathering data. (n.d.). https://mtgjson.com/ 
