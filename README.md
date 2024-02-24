@@ -7,7 +7,7 @@ The purpose of this project is to develop a predictive model that estimates the 
 
 Selection of Data
 
-The datasets being used come from a few different sources. The data set being used for card information and pricing comes from www.MTGJSON.com. This up-to-date data will be used to determine the individual cost of each card used in each deck, then added together to calculate the overall cost of each individual deck. The tournament win data comes from www.kaggle.com. This data will be used to find the top winning decks from tournaments, so that each card can be analyzed for price. The card price was contained in CSV format. Some feature engineering was required for the tournament data so that it could be presented in a digestible form.  
+The datasets being used come from a few different sources. The data set being used for card information and pricing comes from www.MTGJSON.com. This up-to-date data will be used to determine the individual cost of each card used in each deck, then added together to calculate the overall cost of each individual deck. The tournament win data comes from www.kaggle.com. This data will be used to find the top winning decks from tournaments, so that each card can be analyzed for price. The card price was contained in CSV format. Some feature engineering was required for the tournament data so that it could be presented in a digestible form (see tournament.py for more details).  
 Sources:
 
 Card Data: https://mtgjson.com/api/v5/csv/cardPrices.csv
